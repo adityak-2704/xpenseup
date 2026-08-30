@@ -6,6 +6,8 @@ other real accounts and watch the "who owes what" update on both devices.
 
 Built with Vite + React, backed by Supabase (Postgres + Auth), deployed on Vercel.
 
+DEMO URL == "" https://xpenseup.vercel.app/  ""
+
 ---
 
 ## Setup — Part 1: the database (about 5 minutes)
